@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Bot\u00E3o.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bot\u00E3o.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Projetodefato.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projetodefato.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bot\u00E3o.md",
+              "DocumentMoniker": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Bot\u00E3o.md",
+              "RelativeDocumentMoniker": "Bot\u00E3o.md",
+              "ToolTip": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Bot\u00E3o.md",
+              "RelativeToolTip": "Bot\u00E3o.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-18T04:05:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Projetodefato.md",
               "DocumentMoniker": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Projetodefato.md",
               "RelativeDocumentMoniker": "Projetodefato.md",
               "ToolTip": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Projetodefato.md",
               "RelativeToolTip": "Projetodefato.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-02-18T03:45:22.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\Users\\Kronnos\\OneDrive\\\u00C1rea de Trabalho\\Projeto git\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
@@ -58,8 +75,7 @@
               "RelativeToolTip": "Readme.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-18T02:44:44.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T02:44:44.096Z"
             }
           ]
         }
